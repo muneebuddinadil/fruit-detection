@@ -1,14 +1,3 @@
-/******************************************************************
- * author: Balázs Simon
- * e-mail: simon.balazs.1992@gmail.com
- * 
- * This code controls a robot arm. An Arduino 101 is used in this project. 
- * If you plan to use this code on another Arduino you might need to use Serial
- * instead of Serial1
- * More info:
- * https://www.hackster.io/Abysmal/robot-arm-controlled-through-ethernet-5ce9ce
- ******************************************************************/
-
 #include <Servo.h>
 
 // Used pins
