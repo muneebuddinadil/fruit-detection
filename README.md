@@ -11,5 +11,58 @@ This is a project repository for my Research Methodology course @Lakehead Univer
 
 Image processing captures a lot of interest in today’s world since it opens up new opportunities for application in a variety of high-tech sectors. The image processing technique detects objects (fruits) based on colour, size, and shape in real time using a USB camera and then identifies information from it. Image processing methods then process this information for the pick and place by grabbing and arranging the objects in their preprogrammed locations. The objective is to develop a fruit detection system that employs a 3-DOF (degrees of freedom) robotic arm to pick and move an object (fruit) from one position to another. Upon fruit detection, a signal is sent to a microcontroller which thereby transmits another signal to the circuit that drives the different motors of the robotic arm to grasp the object and position it in the desired spot. As a result, the tedious job done by humans is eliminated, and the task is completed with greater accuracy and speed. This work presents the development of a vision-assisted pick and place robotic arm for fruit recognition and sorting using a faster Region-based Convolutional Neural Network (R-CNN) which has higher accuracy and is more efficient than other methods. The main aim is to build an efficient autonomous and real-time fruit sorting system. 
 
-To understand the instructions and road-map of the project, simple follow the steps in table of instructions.
-Contact: [email](kadil@lakeheadu.ca) if you have any questions or need assistance with the project
+To understand the instructions and road-map of the project, simply follow the steps in table of instructions. [Contact me](kadil@lakeheadu.ca) if you have any questions or need assistance with the project.
+***
+
+## Table of Contents
+
+1. [Manifest](#manifest)
+2. [Style Examples](#style-examples)
+3. [Embedding Code](#embedding-code)
+4. [Embedding Links](embedding-links)
+5. [Embedding Images](#embedding-images)
+6. [Lists In Markdown](#lists-in-markdown)
+7. [Necessary Things for a README](#necessary-things-for-a-readme)
+***
+
+## Manifest
+
+- A manifest is a list of the top-level files in a project with a description of what each file is.
+
+```
+- Code For Robotic Arm --> This folder contains the code for the robotic arm.
+- Dataset ----> This folder contains the 3 fruits dataset.
+- Detection Code .py ----------> It contains the python code for fruit detection.
+- Fruit-Recognition-using-RCNN.ipynb -----> This is the proposed algorithm code for project.
+- README.md ----> The file with all the information and a guide through this project.
+```
+***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
