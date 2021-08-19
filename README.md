@@ -17,12 +17,17 @@ To understand the instructions and road-map of the project, simply follow the st
 ## Table of Contents
 
 1. [Manifest](#manifest)
-2. [Style Examples](#style-examples)
-3. [Embedding Code](#embedding-code)
-4. [Embedding Links](embedding-links)
-5. [Embedding Images](#embedding-images)
-6. [Lists In Markdown](#lists-in-markdown)
-7. [Necessary Things for a README](#necessary-things-for-a-readme)
+2. [Dataset](#dataset)
+3. [Libraries](#Libraries)
+4. [Data Preprocessing](#Data-preprocessing)
+5. [Data Augmentation](#Data-Augmentation)
+6. [Model Training](#Model-Training)
+7. [Model Evaluation](#Model-evaluation)
+8. [Training & Evaluation](#Training)
+9. [Testing](#Testing)
+10. [References](#References)
+11. [License](#License)
+12. [Project Status](#Project-status)
 ***
 
 ## Manifest
@@ -37,6 +42,14 @@ Fruit-Recognition-using-RCNN.ipynb --> This is the proposed algorithm code for p
 README.md ---------------------------> The file with all the information and a guide through this project.
 ```
 ***
+
+
+## Dataset
+
+[Click here](https://github.com/muneebuddinadil/fruit-detection/tree/main/Dataset) to download the dataset directly from my repository or [click here](https://github.com/Horea94/Fruit-Images-Dataset/tree/master/Test) to download from the dataset I have taken images from. The name of the dataset used is "[Fruits-360 Dataset](https://www.kaggle.com/moltean/fruits)". The fruits data evaluated for this research are made up of three fruit varieties: apples, oranges and bananas. All the pictures had a
+white background and were 100 x 100 pixels in size. Some of the images are chosen for training sets,  some for validation and some as testing sets.
+***
+
 
 
 
