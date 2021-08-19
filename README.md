@@ -20,7 +20,7 @@ To understand the installation and road-map of the project, simply follow the st
 4. [Arduino-Setup](#Arduino-Setup)
 5. [Connections](#Connections)
 6. [Usage](#Usage)
-7. [Evaluation and Results](#Evaluation and Results)
+7. [Evaluation and Results](#Evaluation-and-Results)
 8. [Training & Evaluation](#Training)
 9. [Testing](#Testing)
 10. [References](#References)
