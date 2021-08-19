@@ -149,13 +149,5 @@ The project is presently unlicensed and open source.
 
 - [Dataset](https://github.com/Horea94/Fruit-Images-Dataset/tree/master/Test)
 - [Alternate dataset](https://www.kaggle.com/moltean/fruits)
+- Horea Muresan, Mihai Oltean, Fruit recognition from images using deep learning, Acta Univ. Sapientiae, Informatica Vol. 10, Issue 1, pp. 26-42, 2018.
 ***
-
-## Author 
-
-<a href="https://github.com/muneebuddinadil/fruit-detection/graphs/contributors">
-  <img src="https://github.com/muneebuddinadil/fruit-detection/blob/main/Images/pic.png" />
-<a/>
-
-
-
