@@ -5,7 +5,7 @@
 
 This is a project repository for my Research Methodology course at Lakehead University!
 
-To understand the installation and road-map of the project, simply follow the steps in table of instructions.
+To understand the installation and road-map of this project, simply follow the steps in table of instructions.
 
 ![gif](https://camo.githubusercontent.com/a3b09625589bce26e15aa78230cc676e042780d9d49e00a2469b2d92d7ea4903/68747470733a2f2f626c6f672e726f626f666c6f772e61692f636f6e74656e742f696d616765732f323032302f30342f66727569742d63726f707065642e736d616c6c2d312e676966)
 
@@ -108,11 +108,16 @@ You are welcome to **contribute** your work to this repository.
 ```
 git clone 'https://github.com/muneebuddinadil/fruit-detection.git'
 ```
-**
+***
 
 ## Evaluation and Results
 
+I plotted a graph between accuracy and epoch and it can be seen that the model has a decent learning rate.
+![](Images/Graph.png)
 
+The figure below demonstrates that recognizing an apple and a banana is 84.79% and 83.61% accurate, respectively. The characteristics are extracted precisely, and the target
+components are identified accurately. Hence, we can conclude that CNN-based deep learning algorithms (R-CNN) performs better in terms of accuracy and image processing speed wehn compared to other methods.
+![](Images/detection.png)
 
 
 
