@@ -16,11 +16,11 @@ To understand the instructions and road-map of the project, simply follow the st
 
 ## Table of Contents
 
-1. [Manifest](#manifest)
-2. [Dataset](#dataset)
+1. [Manifest](#Manifest)
+2. [Dataset](#Dataset)
 3. [Libraries](#Libraries)
-4. [Data Preprocessing](#Data-preprocessing)
-5. [Data Augmentation](#Data-Augmentation)
+4. [Connections](#Connections)
+5. 
 6. [Model Training](#Model-Training)
 7. [Model Evaluation](#Model-evaluation)
 8. [Training & Evaluation](#Training)
@@ -83,8 +83,12 @@ from keras.layers import Dense,Dropout,Flatten,Conv2D,MaxPool2D
 ```
 ***
 
+## Connections 
 
+Follow the diagram below to make connections from your Arduino UNO to the Robotic Arm.
 
+![](Images/circuit.png)
+***
 
 
 
