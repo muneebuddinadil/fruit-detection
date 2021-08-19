@@ -2,32 +2,37 @@
 
 ![social](https://img.shields.io/github/followers/muneebuddinadil?style=social)![twitter](https://img.shields.io/twitter/follow/muneebuddinadil?style=social)![languages](https://img.shields.io/github/languages/count/muneebuddinadil/fruit-detection) ![social](https://img.shields.io/github/repo-size/muneebuddinadil/fruit-detection)  
 
+
+This is a project repository for my Research Methodology course at Lakehead University!
+
+To understand the installation and road-map of the project, simply follow the steps in table of instructions.
+
 ![gif](https://camo.githubusercontent.com/a3b09625589bce26e15aa78230cc676e042780d9d49e00a2469b2d92d7ea4903/68747470733a2f2f626c6f672e726f626f666c6f772e61692f636f6e74656e742f696d616765732f323032302f30342f66727569742d63726f707065642e736d616c6c2d312e676966)
 
-This is a project repository for my Research Methodology course @Lakehead University!
+***
+
+## Table of Contents
+
+0. [Description](#Description)
+1. [Manifest](#Manifest)
+2. [Dataset](#Dataset)
+3. [Libraries](#Libraries)
+4. [Arduino-Setup](#Arduino-Setup)
+5. [Connections](#Connections)
+6. [Usage](#Usage)
+7. [Evaluation and Results](#Evaluation and Results)
+8. [Training & Evaluation](#Training)
+9. [Testing](#Testing)
+10. [References](#References)
+11. [License](#License)
+12. [Project Status](#Project-status)
 ***
 
 ## Description
 
 Image processing captures a lot of interest in today’s world since it opens up new opportunities for application in a variety of high-tech sectors. The image processing technique detects objects (fruits) based on colour, size, and shape in real time using a USB camera and then identifies information from it. Image processing methods then process this information for the pick and place by grabbing and arranging the objects in their preprogrammed locations. The objective is to develop a fruit detection system that employs a 3-DOF (degrees of freedom) robotic arm to pick and move an object (fruit) from one position to another. Upon fruit detection, a signal is sent to a microcontroller which thereby transmits another signal to the circuit that drives the different motors of the robotic arm to grasp the object and position it in the desired spot. As a result, the tedious job done by humans is eliminated, and the task is completed with greater accuracy and speed. This work presents the development of a vision-assisted pick and place robotic arm for fruit recognition and sorting using a faster Region-based Convolutional Neural Network (R-CNN) which has higher accuracy and is more efficient than other methods. The main aim is to build an efficient autonomous and real-time fruit sorting system. 
 
-To understand the instructions and road-map of the project, simply follow the steps in table of instructions. [Contact me](kadil@lakeheadu.ca) if you have any questions or need assistance with the project.
-***
-
-## Table of Contents
-
-1. [Manifest](#Manifest)
-2. [Dataset](#Dataset)
-3. [Libraries](#Libraries)
-4. [Arduino-Setup](#Arduino-Setup)
-5. [Connections](#Connections)
-6. [Model Training](#Model-Training)
-7. [Model Evaluation](#Model-evaluation)
-8. [Training & Evaluation](#Training)
-9. [Testing](#Testing)
-10. [References](#References)
-11. [License](#License)
-12. [Project Status](#Project-status)
+ [Contact me](kadil@lakeheadu.ca) if you have any questions or need assistance with the project.
 ***
 
 ## Manifest
@@ -95,11 +100,17 @@ Follow the diagram below to make connections from your Arduino UNO to the Roboti
 ![](Images/circuit.png)
 ***
 
+## Usage 
 
+To get started with Google Colab, copy each ipynb Notebook in this repository to your own drive and open it directly! In order to train our model, we must first setup the optimizer with learning rate and decay parameters. You can also download the [dataset](https://github.com/muneebuddinadil/fruit-detection/tree/main/Dataset) and train the model in your notebook or can directly use the trained files of my repository. 
 
+You are welcome to **contribute** your work to this repository.
+```
+git clone 'https://github.com/muneebuddinadil/fruit-detection.git'
+```
+**
 
-
-
+## Evaluation and Results
 
 
 
