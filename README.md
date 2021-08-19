@@ -47,15 +47,41 @@ README.md ---------------------------> The file with all the information and a g
 ## Dataset
 
 [Click here](https://github.com/muneebuddinadil/fruit-detection/tree/main/Dataset) to download the dataset directly from my repository or [click here](https://github.com/Horea94/Fruit-Images-Dataset/tree/master/Test) to download from the dataset I have taken images from. The name of the dataset used is "[Fruits-360 Dataset](https://www.kaggle.com/moltean/fruits)". The fruits data evaluated for this research are made up of three fruit varieties: apples, oranges and bananas. All the pictures had a
-white background and were 100 x 100 pixels in size. Some of the images are chosen for training sets,  some for validation and some as testing sets.
+white background and were 100 x 100 pixels in size. Some of the images are chosen as training sets,  some for validation and some as testing sets.
 ***
 
+## Libraries
+After you've downloaded the dataset, you'll need to set up your Google Colab notebook by downloading all of the required libraries, as indicated below.
 
-
-
-
-
-
+```py
+import os
+import csv
+import cv2
+import math
+import glob
+import random
+import warnings
+import operator
+import itertools
+import numpy as np 
+import pandas as pd 
+import seaborn as sns
+import tensorflow as tf
+import matplotlib.pyplot as plt
+from utils import backbone
+from keras.optimizers import Adam
+from keras.models import Sequential
+from subprocess import check_output
+from api import object_counting_api
+from keras.utils import to_categorical
+from sklearn.metrics import confusion_matrix
+from keras.callbacks import ReduceLROnPlateau
+from keras.utils.np_utils import to_categorical
+from sklearn.model_selection import  train_test_split
+from keras.preprocessing.image import ImageDataGenerator
+from keras.layers import Dense,Dropout,Flatten,Conv2D,MaxPool2D
+```
+***
 
 
 
