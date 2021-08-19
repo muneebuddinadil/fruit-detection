@@ -23,6 +23,9 @@ To understand the installation and usage of this project, simply follow the step
 7. [Evaluation and Results](#Evaluation-and-Results)
 8. [Road-Map](#Road-Map)
 9. [Support](#Support)
+10. [License](#License)
+11. [Project Status](#Project-Status)
+12. [References and Resources](#References-and-Resources)
 ***
 
 ## Description
@@ -108,7 +111,7 @@ I plotted a graph between accuracy and epoch and it can be seen that the model h
 ![](Images/Graph.png)
 
 The figure below demonstrates that recognizing an apple and a banana is 84.79% and 83.61% accurate, respectively. The characteristics are extracted precisely, and the target
-components are identified accurately. Hence, we can conclude that CNN-based deep learning algorithms (R-CNN) performs better in terms of accuracy and image processing speed wehn compared to other methods.
+components are identified accurately. :smile: Hence, we can conclude that CNN-based deep learning algorithms (R-CNN) performs better in terms of accuracy and image processing speed wehn compared to other methods.
 
 ![](Images/detection.png)
 ***
@@ -121,6 +124,7 @@ Future work will entail developing a larger outdoor image library to examine add
 ## Support
 
 If you have any suggestions, questions or need any assistance with the project, please do not hesitate to contact me. Thank you for taking the time to read!
+
 Contact me :e-mail: - kadil@lakeheadu.ca
 
 You are welcome to **contribute** your work to this repository.
@@ -129,8 +133,29 @@ git clone 'https://github.com/muneebuddinadil/fruit-detection.git'
 ```
 ***
 
+## License
 
+The project is presently unlicensed and open source.
+***
 
+## Project Status
+
+- The project was implemented successfully. 
+- The fruit detection algorithm had good accuracy.
+- The project has some future work that can be done.
+***
+
+## References and Resources
+
+- [Dataset](https://github.com/Horea94/Fruit-Images-Dataset/tree/master/Test)
+- [Alternate dataset](https://www.kaggle.com/moltean/fruits)
+***
+
+## Author 
+
+<a href="https://github.com/muneebuddinadil/fruit-detection/graphs/contributors">
+  <img src="https://github.com/muneebuddinadil/fruit-detection/blob/main/Images/pic.png" />
+<a/>
 
 
 
