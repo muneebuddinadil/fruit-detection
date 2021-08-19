@@ -27,14 +27,14 @@ To understand the instructions and road-map of the project, simply follow the st
 
 ## Manifest
 
-- A brief descrption of the top-level folders/files of this repository.
+A brief descrption of the top-level folders/files of this repository.
 
 ```
-- Code For Robotic Arm ----------------> This folder contains the code for the robotic arm.
-- Dataset -----------------------------> This folder contains the 3 fruits dataset.
-- Detection Code .py ------------------> It contains the python code for fruit detection.
-- Fruit-Recognition-using-RCNN.ipynb --> This is the proposed algorithm code for project.
-- README.md ---------------------------> The file with all the information and a guide through this project.
+Code For Robotic Arm ----------------> This folder contains the code for the robotic arm.
+Dataset -----------------------------> This folder contains the 3 fruits dataset.
+Detection Code .py ------------------> It contains the python code for fruit detection.
+Fruit-Recognition-using-RCNN.ipynb --> This is the proposed algorithm code for project.
+README.md ---------------------------> The file with all the information and a guide through this project.
 ```
 ***
 
