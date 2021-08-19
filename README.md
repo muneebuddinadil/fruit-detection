@@ -90,7 +90,7 @@ Follow the diagram below to make connections from your Arduino UNO to the Roboti
 ![](Images/circuit.png)
 <img src="https://github.com/muneebuddinadil/fruit-detection/tree/main/Images/circuit.png" width="48">
 
-<img src="https://github.com/muneebuddinadil/fruit-detection/tree/main/Images/circuit.png" alt="" data-canonical-src="https://github.com/muneebuddinadil/fruit-detection/tree/main/Images/circuit.png" width="200" height="400" />
+<img src="https://github.com/muneebuddinadil/fruit-detection/tree/main/Images/circuit.png" alt="" data-canonical-src="https://github.com/muneebuddinadil/fruit-detection/tree/main/Images/circuit.png" width=50% height=50%/>
 
 
 ***
