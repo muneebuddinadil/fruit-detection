@@ -88,6 +88,7 @@ from keras.layers import Dense,Dropout,Flatten,Conv2D,MaxPool2D
 Follow the diagram below to make connections from your Arduino UNO to the Robotic Arm.
 
 ![](Images/circuit.png)
+<img src="https://github.com/muneebuddinadil/fruit-detection/tree/main/Images" width="48">
 ***
 
 
