@@ -19,8 +19,8 @@ To understand the instructions and road-map of the project, simply follow the st
 1. [Manifest](#Manifest)
 2. [Dataset](#Dataset)
 3. [Libraries](#Libraries)
-4. [Connections](#Connections)
-5. 
+4. [Arduino-Setup](#Arduino-Setup)
+5. [Connections](#Connections)
 6. [Model Training](#Model-Training)
 7. [Model Evaluation](#Model-evaluation)
 8. [Training & Evaluation](#Training)
@@ -83,16 +83,16 @@ from keras.layers import Dense,Dropout,Flatten,Conv2D,MaxPool2D
 ```
 ***
 
+## Arduino-Setup
+
+Go-to [this folder](https://github.com/muneebuddinadil/fruit-detection/tree/main/Code%20For%20Robotic%20Arm) and download the code for robotic arm. These codes are stored in the micro-controller Arduino UNO. The codes are for the rotation of robotic arm in 3 different directions (DOF- Degrees of Freedom) and gripper code. The code also contains specified angles for object (fruit) drop location. 
+***
+
 ## Connections 
 
 Follow the diagram below to make connections from your Arduino UNO to the Robotic Arm.
 
 ![](Images/circuit.png)
-<img src="https://github.com/muneebuddinadil/fruit-detection/tree/main/Images/circuit.png" width="48">
-
-<img src="https://github.com/muneebuddinadil/fruit-detection/tree/main/Images/circuit.png" alt="" data-canonical-src="https://github.com/muneebuddinadil/fruit-detection/tree/main/Images/circuit.png" width=50% height=50%/>
-
-
 ***
 
 
