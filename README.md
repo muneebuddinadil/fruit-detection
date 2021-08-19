@@ -13,19 +13,19 @@ To understand the installation and usage of this project, simply follow the step
 
 ## Table of Contents
 
-0. [Description](#Description)
-1. [Manifest](#Manifest)
-2. [Dataset](#Dataset)
-3. [Libraries](#Libraries)
-4. [Arduino-Setup](#Arduino-Setup)
-5. [Connections](#Connections)
-6. [Usage](#Usage)
-7. [Evaluation and Results](#Evaluation-and-Results)
-8. [Road-Map](#Road-Map)
-9. [Support](#Support)
-10. [License](#License)
-11. [Project Status](#Project-Status)
-12. [References and Resources](#References-and-Resources)
+1. [Description](#Description)
+2. [Manifest](#Manifest)
+3. [Dataset](#Dataset)
+4. [Libraries](#Libraries)
+5. [Arduino-Setup](#Arduino-Setup)
+6. [Connections](#Connections)
+7. [Usage](#Usage)
+8. [Evaluation and Results](#Evaluation-and-Results)
+9. [Road-Map](#Road-Map)
+10. [Support](#Support)
+11. [License](#License)
+12. [Project Status](#Project-Status)
+13. [References and Resources](#References-and-Resources)
 ***
 
 ## Description
