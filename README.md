@@ -111,7 +111,7 @@ I plotted a graph between accuracy and epoch and it can be seen that the model h
 ![](Images/Graph.png)
 
 The figure below demonstrates that recognizing an apple and a banana is 84.79% and 83.61% accurate, respectively. The characteristics are extracted precisely, and the target
-components are identified accurately. :smile: Hence, we can conclude that CNN-based deep learning algorithms (R-CNN) performs better in terms of accuracy and image processing speed wehn compared to other methods.
+components are identified accurately. :smile: Hence, we can conclude that CNN-based deep learning algorithms (R-CNN) performs better in terms of accuracy and image processing speed when compared to other methods.
 
 ![](Images/detection.png)
 ***
